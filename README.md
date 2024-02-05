@@ -1,7 +1,8 @@
 # Binary Classification with a Bank Churn Dataset
 
-## Data from Kaggle competiton: Playground Series - Season 4, Episode 1 <br>
-https://www.kaggle.com/competitions/playground-series-s4e1 <br>
+## Data from Kaggle competition: Playground Series - Season 4, Episode 1 <br>
+https://www.kaggle.com/competitions/playground-series-s4e1 <be>
+(Competition closed now)
 
 ## Contents
 - EDA
